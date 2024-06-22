@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.py
+!*.ipynb
+!*.md
+!/requirements.txt
+
+# Ignore specific files
+/config.py
